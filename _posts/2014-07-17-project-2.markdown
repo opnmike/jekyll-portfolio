@@ -1,0 +1,17 @@
+---
+layout: default
+modal-id: 2
+date: 2014-07-17
+img: bates.png
+screenshots: [bates-sc1.png, bates-sc2.png,]
+alt: image-alt
+project-date: April 2014
+tech: [Ruby on Rails, Semantic UI, jQuery]
+description: >
+  <div style="text-align: left; margin-left: 10px">
+    <p>The existing web design team for Bates Saddles approached me to help them implement a web app that could administer basic quizzes to employees. As a global company, their goal was to ensure standards such as merchandising are consistently met regardless of location.</p>
+    <p>I wrote a custom backend using Ruby on Rails that enables Bates staff to create and take quizzes. It also allows them to monitor both their own progress and their teams through their own personal dashboards.</p>
+  </div>
+  <br />
+
+---

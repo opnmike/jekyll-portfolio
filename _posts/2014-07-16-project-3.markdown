@@ -1,0 +1,16 @@
+---
+layout: default
+modal-id: 3
+date: 2014-07-16
+img: box33.png
+alt: image-alt
+project-date: April 2014
+tech: [PHP, Wordpress, jQuery, Google Analytics]
+description: >
+  <div style="text-align: left; margin-left: 10px">
+    <p>I was approached by the owner of <a href="//adaptivestrength.com.au" target="_blank">Box33 Adaptive Strength</a> to revamp their existing website to generate more leads and perform better in Google rankings.</p>
+    <p>I systematically optimised the website code, both for speed and to remove spammy markup, redesigned several pages and consistently edited the Box33 blog. This significantly improved the site's rankings in Google &mdash; by up to ten pages even for particularly competitive keywords &mdash; and resulted in a much more steady stream of leads coming specifically through the site.</p>
+  </div>
+  <br />
+
+---

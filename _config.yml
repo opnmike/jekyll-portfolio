@@ -1,0 +1,35 @@
+# Site settings
+title: Michael Congiusta &mdash; Web Developer
+email: michael.congiusta@gmail.com
+url: https://example.github.io
+description: "Personal web development portfolio for Michael Congiusta."
+keywords: ""
+skills: "Ruby on Rails - Swift - Elixir"
+meta_author: Congiusta Michael
+
+# Google webmaster tools
+google_verify:
+
+# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
+bing_verify:
+
+# Contact form:
+# - static : pass through formspree.io to validate email sending
+# - disqus : replace contact form by disqus thread
+# - comment the line below if you want to stick with the default PHP contact form
+contact: static
+
+# If you use disqus you need disqus shortname
+# https://help.disqus.com/customer/portal/articles/466208
+# disqus_shortname: myshortname
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary: 446CB3 #80B3FF
+  primary-rgb: "68,108,179" #"128,179,255"
+  secondary: 2c3e50 #FD6E8A
+  secondary-dark: 233140 #A2122F
+
+# Build settings
+markdown: kramdown
+permalink: pretty

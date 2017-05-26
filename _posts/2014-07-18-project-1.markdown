@@ -1,0 +1,18 @@
+---
+layout: default
+modal-id: 1
+date: 2014-07-18
+img: timebox.png
+screenshots: [timebox-sc1.png, timebox-sc2.png,]
+alt: image-alt
+project-date: April 2014
+tech: [Elixir, Phoenix, Swift, Objective-C, AWS]
+description: >
+  <div style="text-align: left; margin-left: 10px">
+  <p><strong>Timebox</strong> allows users to send encrypted packages (in the form of photos, videos, and text) to one another. The contents of these cannot be accessed the sender-defined amount of time passes.</p>
+  <p>I designed and built several iterations of both the user interface and backend code. After many versions and tests, I settled on Elixir for the backend due to the ease it allowed me to build out the real-time features that were required for the app to be properly engaging.</p>
+  <p>Timebox is due to release in June 2017.</p>
+  </div>
+  <br />
+
+---
